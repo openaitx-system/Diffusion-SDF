@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=ttlmh&project=Diffusion-SDF&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Diffusion-SDF: Text-to-Shape via Voxelized Diffusion
 
 Created by [Muheng Li](https://ttlmh.github.io/), [Yueqi Duan](https://duanyueqi.github.io/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1).
